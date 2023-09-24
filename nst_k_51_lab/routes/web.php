@@ -29,3 +29,23 @@ Route::middleware('auth')->group(function () {
 });
 
 require __DIR__.'/auth.php';
+
+Route::get('wsb', function(){
+    return view('wsb', ['firstName' => 'Janusz', 'lastName' => 'Nowak']);
+});
+
+Route::get('/address/{city}/{street?}', function(string $city, string $street=null){
+    if ($street != null)
+        echo "Miasto: $city, ulica: $street";
+    else
+        echo "Miasto: $city, ulica: -";
+});
+
+Route::get('show_wsb', [\App\Http\Controllers\WsbController::class, 'index']);
+Route::get('pages/{drive}', [\App\Http\Controllers\PageController::class, 'show']);
+
+Route::view('userform', 'userform');
+//Route::post('UserController', [\App\Http\Controllers\UserController::class, 'account']);
+Route::get('UserController', [\App\Http\Controllers\UserController::class, 'account']);
+
+//dokończyć błędy oraz tłumaczenie komunikatów walidacji na polskie komunikaty
