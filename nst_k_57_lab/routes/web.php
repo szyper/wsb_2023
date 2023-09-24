@@ -26,3 +26,15 @@ Route::middleware([
         return view('dashboard');
     })->name('dashboard');
 });
+
+Route::get('wsb', function(){
+    return view('wsb', ['firstName' => 'Janusz', 'lastName' => 'Nowak']);
+});
+
+Route::get('wsb_kontroler', [\App\Http\Controllers\WsbController::class, 'show']);
+Route::get('drives/{drive}', [\App\Http\Controllers\PageController::class, 'show']);
+
+Route::view('userform', 'form');
+//Route::get('UserController', [\App\Http\Controllers\UserController::class, 'show']);
+Route::post('UserController', [\App\Http\Controllers\UserController::class, 'show']);
+
