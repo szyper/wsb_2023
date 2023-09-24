@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\WsbController;
 
 /*
 |--------------------------------------------------------------------------
@@ -26,3 +27,18 @@ Route::middleware([
         return view('dashboard');
     })->name('dashboard');
 });
+
+Route::get('wsb', function(){
+  return view('wsb', ['firstName' => 'Janusz', 'lastName' => 'Nowak']);
+});
+
+Route::get('wsb_show', [WsbController::class, 'show']);
+//Route::get('wsb_show', [\App\Http\Controllers\WsbController::class, 'show']);
+
+Route::get('pages/{drive}', [\App\Http\Controllers\PageController::class, 'show']);
+
+Route::view('userform', 'userform');
+Route::post('UserController', [\App\Http\Controllers\UserController::class, 'show']);
+
+// wyświetlanie komunikatów z błędami
+// polskie komunikaty do błędów w walidacji
