@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\K_19\2_Heron\bin\Debug\net7.0\2_Heron.exe
+C:\Users\Student\Desktop\K_19\2_Heron\bin\Debug\net7.0\2_Heron.deps.json
+C:\Users\Student\Desktop\K_19\2_Heron\bin\Debug\net7.0\2_Heron.runtimeconfig.json
+C:\Users\Student\Desktop\K_19\2_Heron\bin\Debug\net7.0\2_Heron.dll
+C:\Users\Student\Desktop\K_19\2_Heron\bin\Debug\net7.0\2_Heron.pdb
+C:\Users\Student\Desktop\K_19\2_Heron\obj\Debug\net7.0\2_Heron.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\K_19\2_Heron\obj\Debug\net7.0\2_Heron.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\K_19\2_Heron\obj\Debug\net7.0\2_Heron.AssemblyInfo.cs
+C:\Users\Student\Desktop\K_19\2_Heron\obj\Debug\net7.0\2_Heron.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\K_19\2_Heron\obj\Debug\net7.0\2_Heron.dll
+C:\Users\Student\Desktop\K_19\2_Heron\obj\Debug\net7.0\refint\2_Heron.dll
+C:\Users\Student\Desktop\K_19\2_Heron\obj\Debug\net7.0\2_Heron.pdb
+C:\Users\Student\Desktop\K_19\2_Heron\obj\Debug\net7.0\2_Heron.genruntimeconfig.cache
+C:\Users\Student\Desktop\K_19\2_Heron\obj\Debug\net7.0\ref\2_Heron.dll

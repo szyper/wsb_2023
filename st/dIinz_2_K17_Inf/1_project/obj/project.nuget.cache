@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "zlUvaaI4qge5rVBU6phvOidUuiJvPLZxKDqr3Nywv3UWrdLlOHYEhxMREztDQEy08+tUBpRwn1y4HecShzALGA==",
+  "dgSpecHash": "bfOKM7XMfhbbaNbNPdUnX6tB6hFDE73S+FKnSDiBPagE+QDPjQUKJJFI8DOrfmyKoCwlXAWzb3yLHnsYWGsVkw==",
   "success": true,
   "projectFilePath": "C:\\xampp\\htdocs\\git\\wsb\\wsb_2023\\st\\dIinz_2_K17_Inf\\1_project\\1_project.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.2\\microsoft.netcore.app.ref.7.0.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.2\\microsoft.windowsdesktop.app.ref.7.0.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.2\\microsoft.aspnetcore.app.ref.7.0.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.2\\microsoft.netcore.app.host.win-x64.7.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

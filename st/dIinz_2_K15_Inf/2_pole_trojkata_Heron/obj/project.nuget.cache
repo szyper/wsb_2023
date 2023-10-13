@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "LJOM9JmjL/4XgISLZiqBkhtiVJ16t/s1hGihFgdDVpe1wTJDc2Xdo6ZNFhQofkab37q5WREJJO4r+5pGYJg4qg==",
+  "success": true,
+  "projectFilePath": "C:\\xampp\\htdocs\\git\\wsb\\wsb_2023\\st\\dIinz_2_K15_Inf\\2_pole_trojkata_Heron\\2_pole_trojkata_Heron.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.2\\microsoft.netcore.app.ref.7.0.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.2\\microsoft.windowsdesktop.app.ref.7.0.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.2\\microsoft.aspnetcore.app.ref.7.0.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.2\\microsoft.netcore.app.host.win-x64.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

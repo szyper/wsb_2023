@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\K_19\3_class_Person\bin\Debug\net7.0\3_class_Person.exe
+C:\Users\Student\Desktop\K_19\3_class_Person\bin\Debug\net7.0\3_class_Person.deps.json
+C:\Users\Student\Desktop\K_19\3_class_Person\bin\Debug\net7.0\3_class_Person.runtimeconfig.json
+C:\Users\Student\Desktop\K_19\3_class_Person\bin\Debug\net7.0\3_class_Person.dll
+C:\Users\Student\Desktop\K_19\3_class_Person\bin\Debug\net7.0\3_class_Person.pdb
+C:\Users\Student\Desktop\K_19\3_class_Person\obj\Debug\net7.0\3_class_Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\K_19\3_class_Person\obj\Debug\net7.0\3_class_Person.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\K_19\3_class_Person\obj\Debug\net7.0\3_class_Person.AssemblyInfo.cs
+C:\Users\Student\Desktop\K_19\3_class_Person\obj\Debug\net7.0\3_class_Person.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\K_19\3_class_Person\obj\Debug\net7.0\3_class_Person.dll
+C:\Users\Student\Desktop\K_19\3_class_Person\obj\Debug\net7.0\refint\3_class_Person.dll
+C:\Users\Student\Desktop\K_19\3_class_Person\obj\Debug\net7.0\3_class_Person.pdb
+C:\Users\Student\Desktop\K_19\3_class_Person\obj\Debug\net7.0\3_class_Person.genruntimeconfig.cache
+C:\Users\Student\Desktop\K_19\3_class_Person\obj\Debug\net7.0\ref\3_class_Person.dll
