@@ -44,8 +44,15 @@ Route::get('/address/{city}/{street?}', function(string $city, string $street=nu
 Route::get('show_wsb', [\App\Http\Controllers\WsbController::class, 'index']);
 Route::get('pages/{drive}', [\App\Http\Controllers\PageController::class, 'show']);
 
-Route::view('userform', 'userform');
+Route::view('userform', 'userform1');
 //Route::post('UserController', [\App\Http\Controllers\UserController::class, 'account']);
 Route::get('UserController', [\App\Http\Controllers\UserController::class, 'account']);
 
 //dokończyć błędy oraz tłumaczenie komunikatów walidacji na polskie komunikaty
+
+Route::view('userform2', 'userform2');
+Route::post('FormController', [\App\Http\Controllers\FormController::class, 'form']);
+
+Route::get('showtableusers', [\App\Http\Controllers\ShowTableUsersController::class, 'show']);
+Route::get('showtableuser', [\App\Http\Controllers\ShowTableUsersController::class, 'index']);
+

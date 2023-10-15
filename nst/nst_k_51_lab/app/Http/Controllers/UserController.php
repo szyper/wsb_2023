@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use Illuminate\Validation\Rule;
 
 class UserController extends Controller
 {
@@ -16,6 +17,12 @@ class UserController extends Controller
       $req->validate([
         'email' => 'required | email',
         'lastName' => 'required | min:5 | max:10'
+      ],
+      [
+        'email.required' => 'Pole adres email jest wymagane',
+        'lastName.required' => 'Pole nazwisko email jest wymagane',
+        'lastName.min' => "Pole nazwisko musi mieć minimum :min znaków",
+        'lastName.max' => "Pole nazwisko musi mieć minimum :max znaków",
       ]);
 
       return $req->input();

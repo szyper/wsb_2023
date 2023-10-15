@@ -55,10 +55,10 @@
                                     {{$errors}}
                                     <form action="UserController" method="get">
                                         @csrf
-                                        <input type="text" name="firstName"><br><br>
-                                        <input type="text" name="lastName"><br><br>
-                                        <input type="password" name="pass"><br><br>
-                                        <input type="email" name="email"><br><br>
+                                        <input type="text" name="firstName" placeholder="Pdaj imię"><br><br>
+                                        <input type="text" name="lastName" placeholder="Podaj nazwisko"><br><br>
+                                        <input type="password" name="pass" placeholder="Podaj hasło"><br><br>
+                                        <input type="email" name="email" placeholder="Podaj email"><br><br>
                                         <input type="submit" value="Wyświetl dane">
                                     </form>
                                 </p>
