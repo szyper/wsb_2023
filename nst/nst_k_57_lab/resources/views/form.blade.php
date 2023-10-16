@@ -9,11 +9,20 @@
 </head>
 <body>
   <h3>Dane użytkownika</h3>
-  {{$errors}}
+  @if($errors->any())
+    <ul>
+      @foreach($errors->all() as $error)
+        <li>{{$error}}</li>
+      @endforeach
+    </ul>
+
+  @endif
   <form action="UserController" method="post">
     @csrf
-    <input type="text" name="firstName" placeholder="Podaj imię"><br><br>
-    <input type="email" name="email" placeholder="Podaj email"><br><br>
+    <input type="text" name="firstName" placeholder="Podaj imię" value="{{old('firstName')}}" autofocus>@error('firstName') {{$message}} @enderror<br><br>
+    <input type="email" name="email" placeholder="Podaj email" value="{{old('email')}}">@error('email') {{$message}} @enderror<br><br>
+    <input type="password" name="pass" placeholder="Podaj hasło">@error('pass') {{$message}} @enderror<br><br>
+    <input type="password" name="pass_confirmation" placeholder="Powtórz hasło">@error('pass_confirmation') {{$message}} @enderror<br><br>
     <input type="submit" value="Zatwierdź">
   </form>
 </body>

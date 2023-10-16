@@ -37,8 +37,9 @@ Route::get('wsb_show', [WsbController::class, 'show']);
 
 Route::get('pages/{drive}', [\App\Http\Controllers\PageController::class, 'show']);
 
-Route::view('userform', 'userform');
+Route::view('userform1', 'userform');
 Route::post('UserController', [\App\Http\Controllers\UserController::class, 'show']);
 
-// wyświetlanie komunikatów z błędami
-// polskie komunikaty do błędów w walidacji
+Route::view('userform', 'forms.userform');
+Route::post('UserController', [\App\Http\Controllers\FormController::class, 'showUser']);
+
