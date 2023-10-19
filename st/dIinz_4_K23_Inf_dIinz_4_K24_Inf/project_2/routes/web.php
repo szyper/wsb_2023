@@ -1,17 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-
-/*
-|--------------------------------------------------------------------------
-| Web Routes
-|--------------------------------------------------------------------------
-|
-| Here is where you can register web routes for your application. These
-| routes are loaded by the RouteServiceProvider and all of them will
-| be assigned to the "web" middleware group. Make something great!
-|
-*/
+use App\Http\Controllers\ShowController;
 
 Route::get('/', function () {
     return view('welcome');
@@ -50,3 +40,10 @@ SHOW;
 })->name('adres');
 
 Route::redirect('adres/{city?}/{street?}/{postalCode?}', '/address/{city?}/{street?}/{postalCode?}');
+
+Route::get('show', [\App\Http\Controllers\ShowController::class, 'show']);
+Route::get('show_data', [ShowController::class, 'showData']);
+
+Route::view('userform', 'forms.user_form');
+
+Route::get('UserFormController', [\App\Http\Controllers\UserFormController::class, 'showForm']);
