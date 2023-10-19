@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-
+use App\Http\Controllers\ShowController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -26,3 +26,7 @@ Route::middleware([
         return view('dashboard');
     })->name('dashboard');
 });
+
+//Route::get('show', [\App\Http\Controllers\ShowController::class, 'show']);
+Route::get('show', [ShowController::class, 'show']);
+Route::get('show_view', [ShowController::class, 'showView']);
