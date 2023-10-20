@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\k_17\4_wyklad_1_Osoba_Adres\bin\Debug\net7.0\4_wyklad_1_Osoba_Adres.exe
+C:\Users\Student\Desktop\k_17\4_wyklad_1_Osoba_Adres\bin\Debug\net7.0\4_wyklad_1_Osoba_Adres.deps.json
+C:\Users\Student\Desktop\k_17\4_wyklad_1_Osoba_Adres\bin\Debug\net7.0\4_wyklad_1_Osoba_Adres.runtimeconfig.json
+C:\Users\Student\Desktop\k_17\4_wyklad_1_Osoba_Adres\bin\Debug\net7.0\4_wyklad_1_Osoba_Adres.dll
+C:\Users\Student\Desktop\k_17\4_wyklad_1_Osoba_Adres\bin\Debug\net7.0\4_wyklad_1_Osoba_Adres.pdb
+C:\Users\Student\Desktop\k_17\4_wyklad_1_Osoba_Adres\obj\Debug\net7.0\4_wyklad_1_Osoba_Adres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\k_17\4_wyklad_1_Osoba_Adres\obj\Debug\net7.0\4_wyklad_1_Osoba_Adres.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\k_17\4_wyklad_1_Osoba_Adres\obj\Debug\net7.0\4_wyklad_1_Osoba_Adres.AssemblyInfo.cs
+C:\Users\Student\Desktop\k_17\4_wyklad_1_Osoba_Adres\obj\Debug\net7.0\4_wyklad_1_Osoba_Adres.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\k_17\4_wyklad_1_Osoba_Adres\obj\Debug\net7.0\4_wyklad_1_Osoba_Adres.dll
+C:\Users\Student\Desktop\k_17\4_wyklad_1_Osoba_Adres\obj\Debug\net7.0\refint\4_wyklad_1_Osoba_Adres.dll
+C:\Users\Student\Desktop\k_17\4_wyklad_1_Osoba_Adres\obj\Debug\net7.0\4_wyklad_1_Osoba_Adres.pdb
+C:\Users\Student\Desktop\k_17\4_wyklad_1_Osoba_Adres\obj\Debug\net7.0\4_wyklad_1_Osoba_Adres.genruntimeconfig.cache
+C:\Users\Student\Desktop\k_17\4_wyklad_1_Osoba_Adres\obj\Debug\net7.0\ref\4_wyklad_1_Osoba_Adres.dll
