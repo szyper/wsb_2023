@@ -30,3 +30,5 @@ Route::middleware([
 //Route::get('show', [\App\Http\Controllers\ShowController::class, 'show']);
 Route::get('show', [ShowController::class, 'show']);
 Route::get('show_view', [ShowController::class, 'showView']);
+
+Route::get('db', [\App\Http\Controllers\ShowDbController::class, 'showDbTable']);
