@@ -1,4 +1,4 @@
-﻿using System.Runtime.InteropServices;
+﻿  using System.Runtime.InteropServices;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace project_3
@@ -11,6 +11,7 @@ namespace project_3
 
         public Car (string brand, string model, Engine engine)
         {
+
             this.Brand = brand;
             this.Model = model;
             this.Engine = engine;
@@ -73,15 +74,13 @@ namespace project_3
         public void Work(int distance)
         {
             double fuelConsumption = Capacity * 4 / 100;
-            if (fuelConsumption >= FuelAmount) 
+            if (fuelConsumption * distance >= FuelAmount)
             {
                 FuelAmount -= fuelConsumption * distance;
-                Console.WriteLine("Jestem");
             }
             else
             {
-                Console.WriteLine("Brak paliwa");
-                FuelAmount = 0;
+                Console.WriteLine("Brak paliwa na dojazd do celu");
             }
         }
     }

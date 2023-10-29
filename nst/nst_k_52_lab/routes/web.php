@@ -75,4 +75,8 @@ Route::get('drives/{drive}', [\App\Http\Controllers\PageController::class, 'show
 Route::view('form', 'userform');
 Route::post('UserController', [\App\Http\Controllers\UserController::class, 'showUser']);
 
-//dokończyć walidację (polskie komunikaty)
+Route::get('showdb', [\App\Http\Controllers\ShowController::class, 'ShowDb']);
+
+Route::view('adduserform', 'forms.userform');
+Route::post('AddUserForm', [\App\Http\Controllers\AddUserFormController::class, 'AddCar']);
+Route::get('AddUserForm/{page}', [\App\Http\Controllers\AddUserFormController::class, 'AddCar']);

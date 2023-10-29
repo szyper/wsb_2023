@@ -47,3 +47,9 @@ Route::get('show_data', [ShowController::class, 'showData']);
 Route::view('userform', 'forms.user_form');
 
 Route::get('UserFormController', [\App\Http\Controllers\UserFormController::class, 'showForm']);
+
+Route::get('car', [\App\Http\Controllers\CarController::class, 'ShowCarTable']);
+
+Route::view('addUser', 'forms.adduserform');
+
+Route::post('AddUser', [\App\Http\Controllers\CarController::class, 'AddUser']);
