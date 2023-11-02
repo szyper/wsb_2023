@@ -53,3 +53,10 @@ Route::get('car', [\App\Http\Controllers\CarController::class, 'ShowCarTable']);
 Route::view('addUser', 'forms.adduserform');
 
 Route::post('AddUser', [\App\Http\Controllers\CarController::class, 'AddUser']);
+
+Route::get('showdbtable', [\App\Http\Controllers\UsersController::class, 'Showdbtable']);
+Route::get('show_add_userform', function(){
+  return view('forms.add_user_form');
+});
+
+Route::post('UsersController', [\App\Http\Controllers\UsersController::class, 'Adduser']);
