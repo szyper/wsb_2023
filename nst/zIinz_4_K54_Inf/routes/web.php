@@ -3,17 +3,6 @@
 use App\Http\Controllers\PageController;
 use Illuminate\Support\Facades\Route;
 
-/*
-|--------------------------------------------------------------------------
-| Web Routes
-|--------------------------------------------------------------------------
-|
-| Here is where you can register web routes for your application. These
-| routes are loaded by the RouteServiceProvider and all of them will
-| be assigned to the "web" middleware group. Make something great!
-|
-*/
-
 Route::get('/', function () {
     return view('welcome');
 });
@@ -73,4 +62,8 @@ Route::get('pages/{page}', [PageController::class, 'show']);
 
 Route::view('userform', 'userform');
 Route::post('FormController', [\App\Http\Controllers\FormController::class, 'showForm']);
-//dokończyć walidację (polskie komunikaty o błędach)
+
+Route::get('showUser', [\App\Http\Controllers\UserController::class, 'ShowUser']);
+
+Route::view('caradd', 'forms.addCarForm');
+Route::post('AddCarFormController', [\App\Http\Controllers\AddCarFormController::class, 'AddCar']);
