@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\wsb\1_k_15\5_project_wyklad_2\bin\Debug\net7.0\5_project_wyklad_2.exe
+C:\Users\Student\Desktop\wsb\1_k_15\5_project_wyklad_2\bin\Debug\net7.0\5_project_wyklad_2.deps.json
+C:\Users\Student\Desktop\wsb\1_k_15\5_project_wyklad_2\bin\Debug\net7.0\5_project_wyklad_2.runtimeconfig.json
+C:\Users\Student\Desktop\wsb\1_k_15\5_project_wyklad_2\bin\Debug\net7.0\5_project_wyklad_2.dll
+C:\Users\Student\Desktop\wsb\1_k_15\5_project_wyklad_2\bin\Debug\net7.0\5_project_wyklad_2.pdb
+C:\Users\Student\Desktop\wsb\1_k_15\5_project_wyklad_2\obj\Debug\net7.0\5_project_wyklad_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\wsb\1_k_15\5_project_wyklad_2\obj\Debug\net7.0\5_project_wyklad_2.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\wsb\1_k_15\5_project_wyklad_2\obj\Debug\net7.0\5_project_wyklad_2.AssemblyInfo.cs
+C:\Users\Student\Desktop\wsb\1_k_15\5_project_wyklad_2\obj\Debug\net7.0\5_project_wyklad_2.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\wsb\1_k_15\5_project_wyklad_2\obj\Debug\net7.0\5_project_wyklad_2.dll
+C:\Users\Student\Desktop\wsb\1_k_15\5_project_wyklad_2\obj\Debug\net7.0\refint\5_project_wyklad_2.dll
+C:\Users\Student\Desktop\wsb\1_k_15\5_project_wyklad_2\obj\Debug\net7.0\5_project_wyklad_2.pdb
+C:\Users\Student\Desktop\wsb\1_k_15\5_project_wyklad_2\obj\Debug\net7.0\5_project_wyklad_2.genruntimeconfig.cache
+C:\Users\Student\Desktop\wsb\1_k_15\5_project_wyklad_2\obj\Debug\net7.0\ref\5_project_wyklad_2.dll

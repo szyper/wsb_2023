@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\k_17\6_project_dziedziczenie\bin\Debug\net7.0\6_project_dziedziczenie.exe
+C:\Users\Student\Desktop\k_17\6_project_dziedziczenie\bin\Debug\net7.0\6_project_dziedziczenie.deps.json
+C:\Users\Student\Desktop\k_17\6_project_dziedziczenie\bin\Debug\net7.0\6_project_dziedziczenie.runtimeconfig.json
+C:\Users\Student\Desktop\k_17\6_project_dziedziczenie\bin\Debug\net7.0\6_project_dziedziczenie.dll
+C:\Users\Student\Desktop\k_17\6_project_dziedziczenie\bin\Debug\net7.0\6_project_dziedziczenie.pdb
+C:\Users\Student\Desktop\k_17\6_project_dziedziczenie\obj\Debug\net7.0\6_project_dziedziczenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\k_17\6_project_dziedziczenie\obj\Debug\net7.0\6_project_dziedziczenie.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\k_17\6_project_dziedziczenie\obj\Debug\net7.0\6_project_dziedziczenie.AssemblyInfo.cs
+C:\Users\Student\Desktop\k_17\6_project_dziedziczenie\obj\Debug\net7.0\6_project_dziedziczenie.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\k_17\6_project_dziedziczenie\obj\Debug\net7.0\6_project_dziedziczenie.dll
+C:\Users\Student\Desktop\k_17\6_project_dziedziczenie\obj\Debug\net7.0\refint\6_project_dziedziczenie.dll
+C:\Users\Student\Desktop\k_17\6_project_dziedziczenie\obj\Debug\net7.0\6_project_dziedziczenie.pdb
+C:\Users\Student\Desktop\k_17\6_project_dziedziczenie\obj\Debug\net7.0\6_project_dziedziczenie.genruntimeconfig.cache
+C:\Users\Student\Desktop\k_17\6_project_dziedziczenie\obj\Debug\net7.0\ref\6_project_dziedziczenie.dll
