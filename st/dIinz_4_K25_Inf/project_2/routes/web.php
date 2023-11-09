@@ -93,3 +93,5 @@ Route::get('showAddUserForm', function(){
   return view('forms.showAddUserForm');
 });
 Route::post('AddUserController', [\App\Http\Controllers\AddUserController::class, 'StroreUser']);
+
+Route::get('showfakeuser', [\App\Http\Controllers\CreateFakeData::class, 'Show']);
