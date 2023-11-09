@@ -60,3 +60,5 @@ Route::get('show_add_userform', function(){
 });
 
 Route::post('UsersController', [\App\Http\Controllers\UsersController::class, 'Adduser']);
+
+Route::get('showfakeuser', [\App\Http\Controllers\CreateFakeData::class, 'Show']);
