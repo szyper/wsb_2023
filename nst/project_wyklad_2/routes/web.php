@@ -66,4 +66,6 @@ Route::prefix('admin')->group(function(){
 });
 
 Route::view('userform', 'forms.form_user');
-Route::get('FormController', [\App\Http\Controllers\FormController::class, 'showForm']);
+Route::post('FormController', [\App\Http\Controllers\FormController::class, 'showForm']);
+
+Route::get('showDb', [\App\Http\Controllers\DbController::class, 'ShowUsers']);
