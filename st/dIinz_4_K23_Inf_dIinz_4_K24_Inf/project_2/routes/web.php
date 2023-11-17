@@ -62,3 +62,8 @@ Route::get('show_add_userform', function(){
 Route::post('UsersController', [\App\Http\Controllers\UsersController::class, 'Adduser']);
 
 Route::get('showfakeuser', [\App\Http\Controllers\CreateFakeData::class, 'Show']);
+
+Route::get('articles/index', [\App\Http\Controllers\ArticlesController::class, 'index']);
+
+Route::view('addarticles', 'articles.create');
+Route::post('/articles', [\App\Http\Controllers\ArticlesController::class, 'store'])->name('articles.store');
