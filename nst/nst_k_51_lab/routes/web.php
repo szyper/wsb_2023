@@ -56,3 +56,4 @@ Route::post('FormController', [\App\Http\Controllers\FormController::class, 'for
 Route::get('showtableusers', [\App\Http\Controllers\ShowTableUsersController::class, 'show']);
 Route::get('showtableuser', [\App\Http\Controllers\ShowTableUsersController::class, 'index']);
 
+Route::get('show_users', [\App\Http\Controllers\ShowUserController::class, 'ShowUser']);
