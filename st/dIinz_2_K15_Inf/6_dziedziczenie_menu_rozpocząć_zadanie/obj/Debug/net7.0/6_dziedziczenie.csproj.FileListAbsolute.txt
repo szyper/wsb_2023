@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\dIinz_2_K15_Inf\6_dziedziczenie\bin\Debug\net7.0\6_dziedziczenie.exe
+C:\Users\Student\Desktop\dIinz_2_K15_Inf\6_dziedziczenie\bin\Debug\net7.0\6_dziedziczenie.deps.json
+C:\Users\Student\Desktop\dIinz_2_K15_Inf\6_dziedziczenie\bin\Debug\net7.0\6_dziedziczenie.runtimeconfig.json
+C:\Users\Student\Desktop\dIinz_2_K15_Inf\6_dziedziczenie\bin\Debug\net7.0\6_dziedziczenie.dll
+C:\Users\Student\Desktop\dIinz_2_K15_Inf\6_dziedziczenie\bin\Debug\net7.0\6_dziedziczenie.pdb
+C:\Users\Student\Desktop\dIinz_2_K15_Inf\6_dziedziczenie\obj\Debug\net7.0\6_dziedziczenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\dIinz_2_K15_Inf\6_dziedziczenie\obj\Debug\net7.0\6_dziedziczenie.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\dIinz_2_K15_Inf\6_dziedziczenie\obj\Debug\net7.0\6_dziedziczenie.AssemblyInfo.cs
+C:\Users\Student\Desktop\dIinz_2_K15_Inf\6_dziedziczenie\obj\Debug\net7.0\6_dziedziczenie.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\dIinz_2_K15_Inf\6_dziedziczenie\obj\Debug\net7.0\6_dziedziczenie.dll
+C:\Users\Student\Desktop\dIinz_2_K15_Inf\6_dziedziczenie\obj\Debug\net7.0\refint\6_dziedziczenie.dll
+C:\Users\Student\Desktop\dIinz_2_K15_Inf\6_dziedziczenie\obj\Debug\net7.0\6_dziedziczenie.pdb
+C:\Users\Student\Desktop\dIinz_2_K15_Inf\6_dziedziczenie\obj\Debug\net7.0\6_dziedziczenie.genruntimeconfig.cache
+C:\Users\Student\Desktop\dIinz_2_K15_Inf\6_dziedziczenie\obj\Debug\net7.0\ref\6_dziedziczenie.dll

@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\dIinz_2_K19_Inf\6_project_dziedziczenie_2_menu_klasy\bin\Debug\net7.0\6_project_dziedziczenie_2_menu_klasy.exe
+C:\Users\Student\Desktop\dIinz_2_K19_Inf\6_project_dziedziczenie_2_menu_klasy\bin\Debug\net7.0\6_project_dziedziczenie_2_menu_klasy.deps.json
+C:\Users\Student\Desktop\dIinz_2_K19_Inf\6_project_dziedziczenie_2_menu_klasy\bin\Debug\net7.0\6_project_dziedziczenie_2_menu_klasy.runtimeconfig.json
+C:\Users\Student\Desktop\dIinz_2_K19_Inf\6_project_dziedziczenie_2_menu_klasy\bin\Debug\net7.0\6_project_dziedziczenie_2_menu_klasy.dll
+C:\Users\Student\Desktop\dIinz_2_K19_Inf\6_project_dziedziczenie_2_menu_klasy\bin\Debug\net7.0\6_project_dziedziczenie_2_menu_klasy.pdb
+C:\Users\Student\Desktop\dIinz_2_K19_Inf\6_project_dziedziczenie_2_menu_klasy\obj\Debug\net7.0\6_project_dziedziczenie_2_menu_klasy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\dIinz_2_K19_Inf\6_project_dziedziczenie_2_menu_klasy\obj\Debug\net7.0\6_project_dziedziczenie_2_menu_klasy.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\dIinz_2_K19_Inf\6_project_dziedziczenie_2_menu_klasy\obj\Debug\net7.0\6_project_dziedziczenie_2_menu_klasy.AssemblyInfo.cs
+C:\Users\Student\Desktop\dIinz_2_K19_Inf\6_project_dziedziczenie_2_menu_klasy\obj\Debug\net7.0\6_project_dziedziczenie_2_menu_klasy.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\dIinz_2_K19_Inf\6_project_dziedziczenie_2_menu_klasy\obj\Debug\net7.0\6_project_dziedziczenie_2_menu_klasy.dll
+C:\Users\Student\Desktop\dIinz_2_K19_Inf\6_project_dziedziczenie_2_menu_klasy\obj\Debug\net7.0\refint\6_project_dziedziczenie_2_menu_klasy.dll
+C:\Users\Student\Desktop\dIinz_2_K19_Inf\6_project_dziedziczenie_2_menu_klasy\obj\Debug\net7.0\6_project_dziedziczenie_2_menu_klasy.pdb
+C:\Users\Student\Desktop\dIinz_2_K19_Inf\6_project_dziedziczenie_2_menu_klasy\obj\Debug\net7.0\6_project_dziedziczenie_2_menu_klasy.genruntimeconfig.cache
+C:\Users\Student\Desktop\dIinz_2_K19_Inf\6_project_dziedziczenie_2_menu_klasy\obj\Debug\net7.0\ref\6_project_dziedziczenie_2_menu_klasy.dll
