@@ -40,3 +40,9 @@ Route::post('UserController', [\App\Http\Controllers\UserController::class, 'sho
 
 Route::get('show_db', [\App\Http\Controllers\DbController::class, 'show']);
 Route::get('show_user', [\App\Http\Controllers\DbController::class, 'showUser']);
+
+Route::get('add_product', [\App\Http\Controllers\ProductController::class, 'store']);
+Route::get('update_product', [\App\Http\Controllers\ProductController::class, 'update']);
+Route::get('delete_product', [\App\Http\Controllers\ProductController::class, 'destroy']);
+
+Route::get('show_products', [\App\Http\Controllers\ProductController::class, 'index']);
