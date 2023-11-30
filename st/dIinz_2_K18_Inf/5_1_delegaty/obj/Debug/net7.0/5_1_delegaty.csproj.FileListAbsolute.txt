@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\k_18\5_1_delegaty\bin\Debug\net7.0\5_1_delegaty.exe
+C:\Users\Student\Desktop\k_18\5_1_delegaty\bin\Debug\net7.0\5_1_delegaty.deps.json
+C:\Users\Student\Desktop\k_18\5_1_delegaty\bin\Debug\net7.0\5_1_delegaty.runtimeconfig.json
+C:\Users\Student\Desktop\k_18\5_1_delegaty\bin\Debug\net7.0\5_1_delegaty.dll
+C:\Users\Student\Desktop\k_18\5_1_delegaty\bin\Debug\net7.0\5_1_delegaty.pdb
+C:\Users\Student\Desktop\k_18\5_1_delegaty\obj\Debug\net7.0\5_1_delegaty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\k_18\5_1_delegaty\obj\Debug\net7.0\5_1_delegaty.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\k_18\5_1_delegaty\obj\Debug\net7.0\5_1_delegaty.AssemblyInfo.cs
+C:\Users\Student\Desktop\k_18\5_1_delegaty\obj\Debug\net7.0\5_1_delegaty.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\k_18\5_1_delegaty\obj\Debug\net7.0\5_1_delegaty.dll
+C:\Users\Student\Desktop\k_18\5_1_delegaty\obj\Debug\net7.0\refint\5_1_delegaty.dll
+C:\Users\Student\Desktop\k_18\5_1_delegaty\obj\Debug\net7.0\5_1_delegaty.pdb
+C:\Users\Student\Desktop\k_18\5_1_delegaty\obj\Debug\net7.0\5_1_delegaty.genruntimeconfig.cache
+C:\Users\Student\Desktop\k_18\5_1_delegaty\obj\Debug\net7.0\ref\5_1_delegaty.dll
