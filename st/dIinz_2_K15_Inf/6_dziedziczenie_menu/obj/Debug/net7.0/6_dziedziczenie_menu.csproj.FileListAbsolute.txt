@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\k_15\6_dziedziczenie_menu\bin\Debug\net7.0\6_dziedziczenie_menu.exe
+C:\Users\Student\Desktop\k_15\6_dziedziczenie_menu\bin\Debug\net7.0\6_dziedziczenie_menu.deps.json
+C:\Users\Student\Desktop\k_15\6_dziedziczenie_menu\bin\Debug\net7.0\6_dziedziczenie_menu.runtimeconfig.json
+C:\Users\Student\Desktop\k_15\6_dziedziczenie_menu\bin\Debug\net7.0\6_dziedziczenie_menu.dll
+C:\Users\Student\Desktop\k_15\6_dziedziczenie_menu\bin\Debug\net7.0\6_dziedziczenie_menu.pdb
+C:\Users\Student\Desktop\k_15\6_dziedziczenie_menu\obj\Debug\net7.0\6_dziedziczenie_menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\k_15\6_dziedziczenie_menu\obj\Debug\net7.0\6_dziedziczenie_menu.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\k_15\6_dziedziczenie_menu\obj\Debug\net7.0\6_dziedziczenie_menu.AssemblyInfo.cs
+C:\Users\Student\Desktop\k_15\6_dziedziczenie_menu\obj\Debug\net7.0\6_dziedziczenie_menu.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\k_15\6_dziedziczenie_menu\obj\Debug\net7.0\6_dziedziczenie_menu.dll
+C:\Users\Student\Desktop\k_15\6_dziedziczenie_menu\obj\Debug\net7.0\refint\6_dziedziczenie_menu.dll
+C:\Users\Student\Desktop\k_15\6_dziedziczenie_menu\obj\Debug\net7.0\6_dziedziczenie_menu.pdb
+C:\Users\Student\Desktop\k_15\6_dziedziczenie_menu\obj\Debug\net7.0\6_dziedziczenie_menu.genruntimeconfig.cache
+C:\Users\Student\Desktop\k_15\6_dziedziczenie_menu\obj\Debug\net7.0\ref\6_dziedziczenie_menu.dll

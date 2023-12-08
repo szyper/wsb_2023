@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = _6_2_project_dziedziczenie_ex_wyklad_muzyka
-build_property.ProjectDir = C:\Users\Student\Desktop\dIinz_2_K17_Inf\6_2_project_dziedziczenie_ex_wyklad_muzyka\
+build_property.ProjectDir = C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K17_Inf\6_2_project_dziedziczenie_ex_wyklad_muzyka\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

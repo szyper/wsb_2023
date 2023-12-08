@@ -1,0 +1,15 @@
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K15_Inf\6_2_dziedziczenie_muzyka_zadanie_wyklad\bin\Debug\net8.0\6_2_dziedziczenie_muzyka_zadanie_wyklad.exe
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K15_Inf\6_2_dziedziczenie_muzyka_zadanie_wyklad\bin\Debug\net8.0\6_2_dziedziczenie_muzyka_zadanie_wyklad.deps.json
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K15_Inf\6_2_dziedziczenie_muzyka_zadanie_wyklad\bin\Debug\net8.0\6_2_dziedziczenie_muzyka_zadanie_wyklad.runtimeconfig.json
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K15_Inf\6_2_dziedziczenie_muzyka_zadanie_wyklad\bin\Debug\net8.0\6_2_dziedziczenie_muzyka_zadanie_wyklad.dll
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K15_Inf\6_2_dziedziczenie_muzyka_zadanie_wyklad\bin\Debug\net8.0\6_2_dziedziczenie_muzyka_zadanie_wyklad.pdb
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K15_Inf\6_2_dziedziczenie_muzyka_zadanie_wyklad\obj\Debug\net8.0\6_2_dziedziczenie_muzyka_zadanie_wyklad.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K15_Inf\6_2_dziedziczenie_muzyka_zadanie_wyklad\obj\Debug\net8.0\6_2_dziedziczenie_muzyka_zadanie_wyklad.AssemblyInfoInputs.cache
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K15_Inf\6_2_dziedziczenie_muzyka_zadanie_wyklad\obj\Debug\net8.0\6_2_dziedziczenie_muzyka_zadanie_wyklad.AssemblyInfo.cs
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K15_Inf\6_2_dziedziczenie_muzyka_zadanie_wyklad\obj\Debug\net8.0\6_2_dziedziczenie_muzyka_zadanie_wyklad.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K15_Inf\6_2_dziedziczenie_muzyka_zadanie_wyklad\obj\Debug\net8.0\6_2_dziedziczenie_muzyka_zadanie_wyklad.sourcelink.json
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K15_Inf\6_2_dziedziczenie_muzyka_zadanie_wyklad\obj\Debug\net8.0\6_2_dziedziczenie_muzyka_zadanie_wyklad.dll
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K15_Inf\6_2_dziedziczenie_muzyka_zadanie_wyklad\obj\Debug\net8.0\refint\6_2_dziedziczenie_muzyka_zadanie_wyklad.dll
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K15_Inf\6_2_dziedziczenie_muzyka_zadanie_wyklad\obj\Debug\net8.0\6_2_dziedziczenie_muzyka_zadanie_wyklad.pdb
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K15_Inf\6_2_dziedziczenie_muzyka_zadanie_wyklad\obj\Debug\net8.0\6_2_dziedziczenie_muzyka_zadanie_wyklad.genruntimeconfig.cache
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K15_Inf\6_2_dziedziczenie_muzyka_zadanie_wyklad\obj\Debug\net8.0\ref\6_2_dziedziczenie_muzyka_zadanie_wyklad.dll

@@ -1,0 +1,15 @@
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K18_Inf\_7_1_interfejsy\bin\Debug\net8.0\_7_1_interfejsy.exe
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K18_Inf\_7_1_interfejsy\bin\Debug\net8.0\_7_1_interfejsy.deps.json
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K18_Inf\_7_1_interfejsy\bin\Debug\net8.0\_7_1_interfejsy.runtimeconfig.json
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K18_Inf\_7_1_interfejsy\bin\Debug\net8.0\_7_1_interfejsy.dll
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K18_Inf\_7_1_interfejsy\bin\Debug\net8.0\_7_1_interfejsy.pdb
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K18_Inf\_7_1_interfejsy\obj\Debug\net8.0\_7_1_interfejsy.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K18_Inf\_7_1_interfejsy\obj\Debug\net8.0\_7_1_interfejsy.AssemblyInfoInputs.cache
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K18_Inf\_7_1_interfejsy\obj\Debug\net8.0\_7_1_interfejsy.AssemblyInfo.cs
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K18_Inf\_7_1_interfejsy\obj\Debug\net8.0\_7_1_interfejsy.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K18_Inf\_7_1_interfejsy\obj\Debug\net8.0\_7_1_interfejsy.sourcelink.json
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K18_Inf\_7_1_interfejsy\obj\Debug\net8.0\_7_1_interfejsy.dll
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K18_Inf\_7_1_interfejsy\obj\Debug\net8.0\refint\_7_1_interfejsy.dll
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K18_Inf\_7_1_interfejsy\obj\Debug\net8.0\_7_1_interfejsy.pdb
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K18_Inf\_7_1_interfejsy\obj\Debug\net8.0\_7_1_interfejsy.genruntimeconfig.cache
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K18_Inf\_7_1_interfejsy\obj\Debug\net8.0\ref\_7_1_interfejsy.dll
