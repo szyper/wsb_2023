@@ -69,3 +69,5 @@ Route::view('userform', 'forms.form_user');
 Route::post('FormController', [\App\Http\Controllers\FormController::class, 'showForm']);
 
 Route::get('showDb', [\App\Http\Controllers\DbController::class, 'ShowUsers']);
+
+Route::resource('products', \App\Http\Controllers\ProductController::class);

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("6_2_dziedziczenie_muzyka_zadanie_wyklad")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+530d2453215d9e7b600c3c81311a95e351dac5c5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4fb6dc854bfb3a63f6644ac3c0e8e9470ac139bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("6_2_dziedziczenie_muzyka_zadanie_wyklad")]
 [assembly: System.Reflection.AssemblyTitleAttribute("6_2_dziedziczenie_muzyka_zadanie_wyklad")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
