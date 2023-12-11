@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\k_15\6_2_dziedziczenie_musyka_zadanie_wyklad\bin\Debug\net7.0\6_2_dziedziczenie_musyka_zadanie_wyklad.exe
+C:\Users\Student\Desktop\k_15\6_2_dziedziczenie_musyka_zadanie_wyklad\bin\Debug\net7.0\6_2_dziedziczenie_musyka_zadanie_wyklad.deps.json
+C:\Users\Student\Desktop\k_15\6_2_dziedziczenie_musyka_zadanie_wyklad\bin\Debug\net7.0\6_2_dziedziczenie_musyka_zadanie_wyklad.runtimeconfig.json
+C:\Users\Student\Desktop\k_15\6_2_dziedziczenie_musyka_zadanie_wyklad\bin\Debug\net7.0\6_2_dziedziczenie_musyka_zadanie_wyklad.dll
+C:\Users\Student\Desktop\k_15\6_2_dziedziczenie_musyka_zadanie_wyklad\bin\Debug\net7.0\6_2_dziedziczenie_musyka_zadanie_wyklad.pdb
+C:\Users\Student\Desktop\k_15\6_2_dziedziczenie_musyka_zadanie_wyklad\obj\Debug\net7.0\6_2_dziedziczenie_musyka_zadanie_wyklad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\k_15\6_2_dziedziczenie_musyka_zadanie_wyklad\obj\Debug\net7.0\6_2_dziedziczenie_musyka_zadanie_wyklad.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\k_15\6_2_dziedziczenie_musyka_zadanie_wyklad\obj\Debug\net7.0\6_2_dziedziczenie_musyka_zadanie_wyklad.AssemblyInfo.cs
+C:\Users\Student\Desktop\k_15\6_2_dziedziczenie_musyka_zadanie_wyklad\obj\Debug\net7.0\6_2_dziedziczenie_musyka_zadanie_wyklad.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\k_15\6_2_dziedziczenie_musyka_zadanie_wyklad\obj\Debug\net7.0\6_2_dziedziczenie_musyka_zadanie_wyklad.dll
+C:\Users\Student\Desktop\k_15\6_2_dziedziczenie_musyka_zadanie_wyklad\obj\Debug\net7.0\refint\6_2_dziedziczenie_musyka_zadanie_wyklad.dll
+C:\Users\Student\Desktop\k_15\6_2_dziedziczenie_musyka_zadanie_wyklad\obj\Debug\net7.0\6_2_dziedziczenie_musyka_zadanie_wyklad.pdb
+C:\Users\Student\Desktop\k_15\6_2_dziedziczenie_musyka_zadanie_wyklad\obj\Debug\net7.0\6_2_dziedziczenie_musyka_zadanie_wyklad.genruntimeconfig.cache
+C:\Users\Student\Desktop\k_15\6_2_dziedziczenie_musyka_zadanie_wyklad\obj\Debug\net7.0\ref\6_2_dziedziczenie_musyka_zadanie_wyklad.dll

@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\k_17\9_1_interfejsy\bin\Debug\net7.0\9_1_interfejsy.exe
+C:\Users\Student\Desktop\k_17\9_1_interfejsy\bin\Debug\net7.0\9_1_interfejsy.deps.json
+C:\Users\Student\Desktop\k_17\9_1_interfejsy\bin\Debug\net7.0\9_1_interfejsy.runtimeconfig.json
+C:\Users\Student\Desktop\k_17\9_1_interfejsy\bin\Debug\net7.0\9_1_interfejsy.dll
+C:\Users\Student\Desktop\k_17\9_1_interfejsy\bin\Debug\net7.0\9_1_interfejsy.pdb
+C:\Users\Student\Desktop\k_17\9_1_interfejsy\obj\Debug\net7.0\9_1_interfejsy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\k_17\9_1_interfejsy\obj\Debug\net7.0\9_1_interfejsy.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\k_17\9_1_interfejsy\obj\Debug\net7.0\9_1_interfejsy.AssemblyInfo.cs
+C:\Users\Student\Desktop\k_17\9_1_interfejsy\obj\Debug\net7.0\9_1_interfejsy.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\k_17\9_1_interfejsy\obj\Debug\net7.0\9_1_interfejsy.dll
+C:\Users\Student\Desktop\k_17\9_1_interfejsy\obj\Debug\net7.0\refint\9_1_interfejsy.dll
+C:\Users\Student\Desktop\k_17\9_1_interfejsy\obj\Debug\net7.0\9_1_interfejsy.pdb
+C:\Users\Student\Desktop\k_17\9_1_interfejsy\obj\Debug\net7.0\9_1_interfejsy.genruntimeconfig.cache
+C:\Users\Student\Desktop\k_17\9_1_interfejsy\obj\Debug\net7.0\ref\9_1_interfejsy.dll
