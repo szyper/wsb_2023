@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8_1_zdarzenia", "8_1_zdarzenia.csproj", "{CABE30E1-1AA2-4CBB-B3F1-94BE363ED141}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CABE30E1-1AA2-4CBB-B3F1-94BE363ED141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CABE30E1-1AA2-4CBB-B3F1-94BE363ED141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CABE30E1-1AA2-4CBB-B3F1-94BE363ED141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CABE30E1-1AA2-4CBB-B3F1-94BE363ED141}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {424A87B4-8592-4E3F-90F6-1F8F4CC6ADDC}
+	EndGlobalSection
+EndGlobal

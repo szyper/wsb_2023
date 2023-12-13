@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\k_15\8_1_zdarzenia\obj\Debug\net7.0\8_1_zdarzenia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\k_15\8_1_zdarzenia\obj\Debug\net7.0\8_1_zdarzenia.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\k_15\8_1_zdarzenia\obj\Debug\net7.0\8_1_zdarzenia.AssemblyInfo.cs
+C:\Users\Student\Desktop\k_15\8_1_zdarzenia\obj\Debug\net7.0\8_1_zdarzenia.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\k_15\8_1_zdarzenia\bin\Debug\net7.0\8_1_zdarzenia.exe
+C:\Users\Student\Desktop\k_15\8_1_zdarzenia\bin\Debug\net7.0\8_1_zdarzenia.deps.json
+C:\Users\Student\Desktop\k_15\8_1_zdarzenia\bin\Debug\net7.0\8_1_zdarzenia.runtimeconfig.json
+C:\Users\Student\Desktop\k_15\8_1_zdarzenia\bin\Debug\net7.0\8_1_zdarzenia.dll
+C:\Users\Student\Desktop\k_15\8_1_zdarzenia\bin\Debug\net7.0\8_1_zdarzenia.pdb
+C:\Users\Student\Desktop\k_15\8_1_zdarzenia\obj\Debug\net7.0\8_1_zdarzenia.dll
+C:\Users\Student\Desktop\k_15\8_1_zdarzenia\obj\Debug\net7.0\refint\8_1_zdarzenia.dll
+C:\Users\Student\Desktop\k_15\8_1_zdarzenia\obj\Debug\net7.0\8_1_zdarzenia.pdb
+C:\Users\Student\Desktop\k_15\8_1_zdarzenia\obj\Debug\net7.0\8_1_zdarzenia.genruntimeconfig.cache
+C:\Users\Student\Desktop\k_15\8_1_zdarzenia\obj\Debug\net7.0\ref\8_1_zdarzenia.dll
