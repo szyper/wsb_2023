@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\k_17\11_1_serializacja\bin\Debug\net7.0\11_1_serializacja.exe
+C:\Users\Student\Desktop\k_17\11_1_serializacja\bin\Debug\net7.0\11_1_serializacja.deps.json
+C:\Users\Student\Desktop\k_17\11_1_serializacja\bin\Debug\net7.0\11_1_serializacja.runtimeconfig.json
+C:\Users\Student\Desktop\k_17\11_1_serializacja\bin\Debug\net7.0\11_1_serializacja.dll
+C:\Users\Student\Desktop\k_17\11_1_serializacja\bin\Debug\net7.0\11_1_serializacja.pdb
+C:\Users\Student\Desktop\k_17\11_1_serializacja\obj\Debug\net7.0\11_1_serializacja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\k_17\11_1_serializacja\obj\Debug\net7.0\11_1_serializacja.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\k_17\11_1_serializacja\obj\Debug\net7.0\11_1_serializacja.AssemblyInfo.cs
+C:\Users\Student\Desktop\k_17\11_1_serializacja\obj\Debug\net7.0\11_1_serializacja.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\k_17\11_1_serializacja\obj\Debug\net7.0\11_1_serializacja.dll
+C:\Users\Student\Desktop\k_17\11_1_serializacja\obj\Debug\net7.0\refint\11_1_serializacja.dll
+C:\Users\Student\Desktop\k_17\11_1_serializacja\obj\Debug\net7.0\11_1_serializacja.pdb
+C:\Users\Student\Desktop\k_17\11_1_serializacja\obj\Debug\net7.0\11_1_serializacja.genruntimeconfig.cache
+C:\Users\Student\Desktop\k_17\11_1_serializacja\obj\Debug\net7.0\ref\11_1_serializacja.dll

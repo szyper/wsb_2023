@@ -1,4 +1,7 @@
-﻿namespace _10_1_wyjatki
+﻿using System.Security.Cryptography.X509Certificates;
+using System.Threading.Channels;
+
+namespace _10_1_wyjatki
 {
     class EngineFailureException : Exception
     {
@@ -9,7 +12,8 @@
 
     interface IMovable
     {
-
+        void Drive(int distance);
+        event EventHandler<Car> Broken;
     }
 
     class Car : IMovable
@@ -26,12 +30,13 @@
             Color = color;
             Capacity = capacity;
             Mileage = 0;
+            Broken += (sender, args) => Console.WriteLine("Samochód jest uszkodzony!");
         }
 
         public void Drive(int distance)
         {
             Mileage += distance;
-            
+
             Random rand = new Random();
             int num = rand.Next(100);
 
@@ -55,13 +60,77 @@
         {
             return $"{Brand}, {Model}, {Color}, {Capacity}, {Mileage}";
         }
-
     }
-    internal class Program
+       class Mechanic
+       {
+           public string Name { get; private set; }
+           public string Surname { get; private set; }
+
+           public Mechanic(string name, string surname)
+           {
+               Name = name;
+               Surname = surname;
+           }
+
+           public delegate bool Repair(Car c);
+
+           public void PerformRepair(Car c, Repair r)
+           {
+               bool result = r(c);
+               Console.WriteLine($"{Name} {Surname} naprawiał {c.Brand} {c.Model} {(result ? "skutecznie" : "nieskutecznie")}");
+           }
+       }
+    class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Car c1 = new Car("Fiat", "126p", "Czerwony", 650);
+            Car c2 = new Car("Ford", "Fiesta", "Zielony", 1600);
+            Car c3 = new Car("Ford", "Ka", "Zielony", 1000);
+
+            Mechanic m1 = new Mechanic("Jan", "Nowak");
+            Mechanic m2 = new Mechanic("Anna", "Kowal");
+            Mechanic m3 = new Mechanic("Tomasz", "Nowak");
+
+            Mechanic.Repair r1 = c => { c.Capacity += 100; return true; };
+            Mechanic.Repair r2 = c => { c.Color = "Czerwony"; return true; };
+            Mechanic.Repair r3 = c => { return false; };
+
+            List<Car> cars = new List<Car>() { c1, c2, c3 };
+            List<Mechanic> mechanics = new List<Mechanic>() { m1, m2, m3 };
+            List<Mechanic.Repair> repairs = new List<Mechanic.Repair>() { r1, r2, r3 };
+
+            foreach (Car c in cars)
+            {
+                c.Broken += (sender, e) => Console.WriteLine($"Zepsuł się samochód {e.Brand} {e.Model} z przebiegiem {e.Mileage}");
+            }
+
+            for (int i = 0; i < 10; i++)
+            {
+                Random rand = new Random();
+                Car c = cars[rand.Next(cars.Count)];
+                Mechanic m = mechanics[rand.Next(mechanics.Count)];
+                Mechanic.Repair r = repairs[rand.Next(repairs.Count)];
+
+                try
+                {
+                    int distance = rand.Next(1, 100);
+                    c.Drive(distance);
+                    Console.WriteLine($"Samochód {c.Brand} {c.Model} przejechał dystans {distance} km");
+                }
+                catch (EngineFailureException ex)
+                {
+                    Console.WriteLine(ex.Message);
+                    c.OnBroken();
+                    m.PerformRepair(c, r);
+                }
+            }
+
+            foreach (Car c in cars)
+            {
+                Console.WriteLine(c);
+            }
+            Console.WriteLine();
         }
     }
 }
