@@ -1,0 +1,7 @@
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K15_Inf\11_lambda\bin\Debug\11_lambda.exe.config
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K15_Inf\11_lambda\bin\Debug\11_lambda.exe
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K15_Inf\11_lambda\bin\Debug\11_lambda.pdb
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K15_Inf\11_lambda\obj\Debug\11_lambda.csproj.AssemblyReference.cache
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K15_Inf\11_lambda\obj\Debug\11_lambda.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K15_Inf\11_lambda\obj\Debug\11_lambda.exe
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K15_Inf\11_lambda\obj\Debug\11_lambda.pdb

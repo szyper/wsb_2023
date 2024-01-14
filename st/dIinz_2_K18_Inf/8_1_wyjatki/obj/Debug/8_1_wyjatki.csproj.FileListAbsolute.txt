@@ -1,0 +1,7 @@
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K18_Inf\8_1_wyjatki\bin\Debug\8_1_wyjatki.exe.config
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K18_Inf\8_1_wyjatki\bin\Debug\8_1_wyjatki.exe
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K18_Inf\8_1_wyjatki\bin\Debug\8_1_wyjatki.pdb
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K18_Inf\8_1_wyjatki\obj\Debug\8_1_wyjatki.csproj.AssemblyReference.cache
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K18_Inf\8_1_wyjatki\obj\Debug\8_1_wyjatki.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K18_Inf\8_1_wyjatki\obj\Debug\8_1_wyjatki.exe
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K18_Inf\8_1_wyjatki\obj\Debug\8_1_wyjatki.pdb

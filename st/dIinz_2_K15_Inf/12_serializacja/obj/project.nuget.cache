@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xcjZUVc6Xk6F/gge5/0Ag8z9PW2lMNeia/xAKiLMtPWxOGd3K6uEhGbvuVQHfl1m9Lgw6zdNUbWuk0Qhz21NvQ==",
+  "success": true,
+  "projectFilePath": "C:\\xampp\\htdocs\\git\\wsb\\wsb_2023\\st\\dIinz_2_K15_Inf\\12_serializacja\\12_serializacja.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.0\\microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.0\\microsoft.net.illink.tasks.8.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.0\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

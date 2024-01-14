@@ -1,0 +1,15 @@
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K15_Inf\10_1_wyjatki\bin\Debug\net7.0\10_1_wyjatki.exe
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K15_Inf\10_1_wyjatki\bin\Debug\net7.0\10_1_wyjatki.deps.json
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K15_Inf\10_1_wyjatki\bin\Debug\net7.0\10_1_wyjatki.runtimeconfig.json
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K15_Inf\10_1_wyjatki\bin\Debug\net7.0\10_1_wyjatki.dll
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K15_Inf\10_1_wyjatki\bin\Debug\net7.0\10_1_wyjatki.pdb
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K15_Inf\10_1_wyjatki\obj\Debug\net7.0\10_1_wyjatki.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K15_Inf\10_1_wyjatki\obj\Debug\net7.0\10_1_wyjatki.AssemblyInfoInputs.cache
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K15_Inf\10_1_wyjatki\obj\Debug\net7.0\10_1_wyjatki.AssemblyInfo.cs
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K15_Inf\10_1_wyjatki\obj\Debug\net7.0\10_1_wyjatki.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K15_Inf\10_1_wyjatki\obj\Debug\net7.0\10_1_wyjatki.sourcelink.json
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K15_Inf\10_1_wyjatki\obj\Debug\net7.0\10_1_wyjatki.dll
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K15_Inf\10_1_wyjatki\obj\Debug\net7.0\refint\10_1_wyjatki.dll
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K15_Inf\10_1_wyjatki\obj\Debug\net7.0\10_1_wyjatki.pdb
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K15_Inf\10_1_wyjatki\obj\Debug\net7.0\10_1_wyjatki.genruntimeconfig.cache
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K15_Inf\10_1_wyjatki\obj\Debug\net7.0\ref\10_1_wyjatki.dll
