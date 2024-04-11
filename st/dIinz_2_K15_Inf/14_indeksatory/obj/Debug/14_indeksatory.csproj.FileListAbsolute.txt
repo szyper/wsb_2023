@@ -1,0 +1,7 @@
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K15_Inf\14_indeksatory\bin\Debug\14_indeksatory.exe.config
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K15_Inf\14_indeksatory\bin\Debug\14_indeksatory.exe
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K15_Inf\14_indeksatory\bin\Debug\14_indeksatory.pdb
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K15_Inf\14_indeksatory\obj\Debug\14_indeksatory.csproj.AssemblyReference.cache
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K15_Inf\14_indeksatory\obj\Debug\14_indeksatory.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K15_Inf\14_indeksatory\obj\Debug\14_indeksatory.exe
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K15_Inf\14_indeksatory\obj\Debug\14_indeksatory.pdb

@@ -1,0 +1,7 @@
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K15_Inf\13_pakowanie\bin\Debug\13_pakowanie.exe.config
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K15_Inf\13_pakowanie\bin\Debug\13_pakowanie.exe
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K15_Inf\13_pakowanie\bin\Debug\13_pakowanie.pdb
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K15_Inf\13_pakowanie\obj\Debug\13_pakowanie.csproj.AssemblyReference.cache
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K15_Inf\13_pakowanie\obj\Debug\13_pakowanie.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K15_Inf\13_pakowanie\obj\Debug\13_pakowanie.exe
+C:\xampp\htdocs\git\wsb\wsb_2023\st\dIinz_2_K15_Inf\13_pakowanie\obj\Debug\13_pakowanie.pdb
